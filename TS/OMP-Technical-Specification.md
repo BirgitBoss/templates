@@ -184,7 +184,7 @@ Sections for the normative specification text. Fill in as needed. The following 
 (Add text here.)
 
 <figure>
-	<img scr="images/fig1_example.svg" alt="Example Figure">
+	<img src="images/fig1_example.svg" alt="Example Figure">
 	<figcaption>Example Figure</figcaption> 
 </figure>	
 
